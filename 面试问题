@@ -12,6 +12,7 @@ https://www.cnblogs.com/wujing-hubei/p/5699773.html
 # 5. 如何删除文件空行
 
 # 6. 进程与线程的区别、进程间通信
+
 ```
 管道（pipe）,流管道(s_pipe)和有名管道（FIFO）
 
